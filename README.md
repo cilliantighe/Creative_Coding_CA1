@@ -7,7 +7,7 @@ This repository documents the development of the CA. The aim of this project was
 #### Creating a Class
 -   [v0.2](v0.2)
 
-#### Loading Json File
+#### Importing/Exporting a JSON File
 -   [v0.3](v0.3)
 
 #### Colour, Shape & Opacity
@@ -25,6 +25,7 @@ This repository documents the development of the CA. The aim of this project was
 
 #### Manipulating the Shape
 -   [v0.9](v0.9)
+-   [v0.95](v0.95)
 
 #### Final Result
 -   [v1.0](v1.0)

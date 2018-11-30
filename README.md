@@ -1,9 +1,6 @@
 # Creative Coding CA1
 This repository documents the development of the CA. The aim of this project was to create an interactive application that would allow the user to create unique and interesting designs. The evolution of the project was divided by unique milestones. Each milestone adds, changes or varies the code to it's prior version.
 
-## Preview Book Covers
--   [Book Covers](sample_images)
-
 ## Inception
 -   [v0.1](v0.1)
 

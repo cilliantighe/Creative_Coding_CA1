@@ -57,7 +57,7 @@ function mouseReleased() {
   // _xLoc, _yLoc, _noOfVertices, _rotateDir, _radius, _opacity, _colour
   // Passing the mouseX & mouseY values as the x/y location for the shape
   // The number of points, rotate direction and radius are all random
-  var shape = new TriangleFan(mouseX, mouseY, floor(random(10, 100)), random(-0.005, 0.005), floor(random(10, 200)), random(1));
+  var shape = new TriangleFan(mouseX, mouseY, floor(random(10, 100)), random(-0.005, 0.005), floor(random(10, 200)), random(1), random(1));
   shapes.push(shape);
 }
 

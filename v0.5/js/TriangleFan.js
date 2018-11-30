@@ -48,6 +48,10 @@ class TriangleFan {
       counter++;
     }
     endShape();
+    if (this.opacity < 0.5) {
+      fill(0, 0, 100);
+      ellipse(0, 0, this.radius * 0.5);
+    }
     pop();
   }
 }

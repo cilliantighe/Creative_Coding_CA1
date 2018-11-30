@@ -53,7 +53,7 @@ function keyPressed() {
   if (key == 'j' || key == 'J') saveDesign(JSON.stringify(shapes), "v0.5")
 }
 
-function mouseReleased() {
+function mouseDragged() {
   // _xLoc, _yLoc, _noOfVertices, _rotateDir, _radius, _opacity, _colour
   // Passing the mouseX & mouseY values as the x/y location for the shape
   // The number of points, rotate direction and radius are all random
